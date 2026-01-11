@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# LocalDB / DB files (önerilen: repo'ya koyma)
+*.mdf
+*.ldf
+*.bak
